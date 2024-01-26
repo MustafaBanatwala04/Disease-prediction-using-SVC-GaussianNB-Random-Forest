@@ -30,14 +30,6 @@ This project is currently in the modeling stage, and the implementation of a use
 
 Feel free to contribute, provide feedback, or stay tuned for updates as we work towards enhancing the project with a user-friendly interface.
 
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/disease-prediction.git`
-2. Navigate to the project directory: `cd disease-prediction`
-3. Run the machine learning model: `python predict_disease.py`
-
 ## Contributing
 
 If you are interested in contributing to the project or have suggestions for improvement, please feel free to submit a pull request or open an issue.
